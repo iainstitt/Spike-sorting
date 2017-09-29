@@ -1,1 +1,1 @@
-test
+These Matlab functions can be used to preprocess extracellular recordings, and perform spike sorting using the GPU implemented Kilosort package. More detailed documentation can be found within each function. 
